@@ -10,3 +10,5 @@ users = [
 
 hashed_users = Croud.create_secure_users(users)
 puts hashed_users
+
+#YOLO
